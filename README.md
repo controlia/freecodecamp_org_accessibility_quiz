@@ -1,1 +1,1 @@
-# freecodecamp_org_accessibility_quiz-
+# freecodecamp_org_accessibility_quiz
